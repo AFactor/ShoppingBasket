@@ -49,7 +49,7 @@ namespace Basket.Test
 
         [TestMethod]
         [ExpectedException(typeof(System.ArgumentException))]
-        public void Check_Basket_Item_appeared_Twice()
+        public void Set_Basket_Item_appeared_Twice()
         {
             //act
             _basketService.SetBasket(new List<string>() { "Butter,2", "Butter,1" });

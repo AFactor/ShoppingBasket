@@ -19,7 +19,7 @@ namespace Basket.Repositories
 
         public Entities.Price Get(string identifier)
         {
-            return _prices.FirstOrDefault(p => p.ProductTitle.Equals(identifier,StringComparison.CurrentCultureIgnoreCase));
+            return _prices.FirstOrDefault(p => p.ProductTitle.Equals(identifier.Trim(),StringComparison.CurrentCultureIgnoreCase));
         }
 
         public List<Entities.Price> GetAll()

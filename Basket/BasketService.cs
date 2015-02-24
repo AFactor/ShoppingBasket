@@ -10,7 +10,7 @@ namespace Basket.Service
     /// <summary>
     /// Class for all things related to basket.
     /// I had a dilemma whether I will create a promotionservice for for all things related to promotion.
-    /// But in the end I have decided to stick it all in basketservice.
+    /// But in the end I have decided to put it all in basketservice.
     /// </summary>
     public class BasketService
     {
@@ -20,9 +20,8 @@ namespace Basket.Service
         private IPriceRepository _priceRepository;
         private IPromotionRepository _promotionRepository;
         private decimal? _subTotal;
-        private decimal? _total;       
-       
-        private List<ShopBasket> _basketList = new List<ShopBasket>();
+        private decimal? _total;              
+        private readonly List<ShopBasket> _basketList = new List<ShopBasket>();
         #endregion
 
         #region public methods and constructor
@@ -33,14 +32,7 @@ namespace Basket.Service
             _promotionRepository = promoRepository;
         }
 
-        public   List<ShopBasket> BasketList
-        {
-            get
-            {
-                return _basketList;
-            }
-
-        }
+        
 
 
         /// <summary>
@@ -146,7 +138,8 @@ namespace Basket.Service
        
         public Decimal Total { get { return _total.HasValue ? _total.Value : 0; } }
 
-        
+        public List<ShopBasket> BasketList { get { return _basketList; } }
+               
 
         #endregion
 

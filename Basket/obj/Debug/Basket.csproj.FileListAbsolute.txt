@@ -10,3 +10,15 @@ C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.RegistrationByConventi
 C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.xml
 C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Code\ShoppingBasket\Basket\bin\Debug\Basket.exe.config
+C:\Code\ShoppingBasket\Basket\obj\Debug\Basket.exe
+C:\Code\ShoppingBasket\Basket\obj\Debug\Basket.pdb
+C:\Code\ShoppingBasket\Basket\bin\Debug\Basket.exe
+C:\Code\ShoppingBasket\Basket\bin\Debug\Basket.pdb
+C:\Code\ShoppingBasket\Basket\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Code\ShoppingBasket\Basket\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Code\ShoppingBasket\Basket\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Code\ShoppingBasket\Basket\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Code\ShoppingBasket\Basket\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Code\ShoppingBasket\Basket\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Code\ShoppingBasket\Basket\obj\Debug\Basket.csprojResolveAssemblyReference.cache
