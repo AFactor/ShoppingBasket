@@ -1,0 +1,14 @@
+C:\Code\Basket\Basket.Test\obj\Debug\Basket.Test.csprojResolveAssemblyReference.cache
+C:\Code\Basket\Basket.Test\bin\Debug\Basket.Test.dll
+C:\Code\Basket\Basket.Test\bin\Debug\Basket.Test.pdb
+C:\Code\Basket\Basket.Test\bin\Debug\Basket.exe
+C:\Code\Basket\Basket.Test\bin\Debug\Moq.dll
+C:\Code\Basket\Basket.Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Code\Basket\Basket.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Code\Basket\Basket.Test\bin\Debug\Basket.pdb
+C:\Code\Basket\Basket.Test\bin\Debug\Moq.xml
+C:\Code\Basket\Basket.Test\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Code\Basket\Basket.Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Code\Basket\Basket.Test\obj\Debug\Basket.Test.dll
+C:\Code\Basket\Basket.Test\obj\Debug\Basket.Test.pdb
+C:\Code\Basket\Basket.Test\bin\Debug\Basket.Test.dll.config

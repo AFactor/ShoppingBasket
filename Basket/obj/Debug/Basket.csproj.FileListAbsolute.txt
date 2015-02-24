@@ -1,0 +1,12 @@
+C:\code\Basket\Basket\bin\Debug\Basket.exe.config
+C:\code\Basket\Basket\bin\Debug\Basket.exe
+C:\code\Basket\Basket\bin\Debug\Basket.pdb
+C:\code\Basket\Basket\obj\Debug\Basket.csprojResolveAssemblyReference.cache
+C:\code\Basket\Basket\obj\Debug\Basket.exe
+C:\code\Basket\Basket\obj\Debug\Basket.pdb
+C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.dll
+C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.xml
+C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\code\Basket\Basket\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
